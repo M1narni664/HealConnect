@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Andi Prasetyo",
+    "speciality": "Cardiology",
+    "qualification": "Sp.JP, FIHA",
+    "clinicNo": "Room 101, Jakarta Heart Center",
+    "clinicContact": "+62213900801"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Maria Sari Dewi",
+    "speciality": "Dermatology",
+    "qualification": "Sp.KK",
+    "clinicNo": "Room 202, Dermacare Clinic",
+    "clinicContact": "+62213908802"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Budi Raharjo",
+    "speciality": "Neurology",
+    "qualification": "Sp.N",
+    "clinicNo": "Room 305, Jakarta Neuro Clinic",
+    "clinicContact": "+62213907803"
+  },
+  {
+    "id": 4,
+    "name": "Dr. Anita Widodo",
+    "speciality": "Obstetrics & Gynaecology",
+    "qualification": "Sp.OG",
+    "clinicNo": "Room 104, Bunda Women Health Center",
+    "clinicContact": "+62213905804"
+  },
+  {
+    "id": 5,
+    "name": "Dr. Faisal Hamzah",
+    "speciality": "Pediatrics",
+    "qualification": "Sp.A",
+    "clinicNo": "Room 201, Jakarta Kids Clinic",
+    "clinicContact": "+62213904805"
+  },
+  {
+    "id": 6,
+    "name": "Dr. Siska Kusuma",
+    "speciality": "Orthopedics",
+    "qualification": "Sp.OT",
+    "clinicNo": "Room 401, OrthoCare Hospital",
+    "clinicContact": "+62213903806"
+  },
+  {
+    "id": 7,
+    "name": "Dr. Agung Priyono",
+    "speciality": "Urology",
+    "qualification": "Sp.U",
+    "clinicNo": "Room 203, Jakarta Urology Center",
+    "clinicContact": "+62213902807"
+  },
+  {
+    "id": 8,
+    "name": "Dr. Diah Anggraini",
+    "speciality": "Endocrinology",
+    "qualification": "Sp.PD-KEMD",
+    "clinicNo": "Room 105, Metabolic Clinic Jakarta",
+    "clinicContact": "+62213901808"
+  },
+  {
+    "id": 9,
+    "name": "Dr. Hendro Suryawan",
+    "speciality": "Pulmonology",
+    "qualification": "Sp.P",
+    "clinicNo": "Room 304, Respiratory Center",
+    "clinicContact": "+62213900809"
+  },
+  {
+    "id": 10,
+    "name": "Dr. Sri Handayani",
+    "speciality": "Ophthalmology",
+    "qualification": "Sp.M",
+    "clinicNo": "Room 205, Mental Wellness Center",
+    "clinicContact": "+62213900810"
+  },
+  {
+    "id": 11,
+    "name": "Dr. Rahma Kurnia",
+    "speciality": "Psychiatry",
+    "qualification": "Sp.KJ",
+    "clinicNo": "Room 306, Mental Wellness Center",
+    "clinicContact": "+62213900811"
+  },
+  {
+    "id": 12,
+    "name": "Dr. Sutomo Purnomo",
+    "speciality": "Oncology",
+    "qualification": "Sp.B (K) Onk",
+    "clinicNo": "Room 102, Oncology Care Center",
+    "clinicContact": "+62213900812"
+  },
+  {
+    "id": 13,
+    "name": "Dr. Vivi Rahayu",
+    "speciality": "Gastroenterology",
+    "qualification": "Sp.PD-KGEH",
+    "clinicNo": "Room 303, Digestive Clinic",
+    "clinicContact": "+62213900813"
+  },
+  {
+    "id": 14,
+    "name": "Dr. Irfan Suwondo",
+    "speciality": "Plastic Surgery",
+    "qualification": "Sp.BP-RE",
+    "clinicNo": "Room 204, Jakarta Aesthetics Center",
+    "clinicContact": "+62213900814"
+  },
+  {
+    "id": 15,
+    "name": "Dr. Yuni Setyaningsih",
+    "speciality": "Rheumatology",
+    "qualification": "Sp.PD-KR",
+    "clinicNo": "Room 305, Arthritis Center",
+    "clinicContact": "+62213900815"
+  },
+  {
+    "id": 16,
+    "name": "Dr. Bambang Santoso",
+    "speciality": "Nephrology",
+    "qualification": "Sp.PD-KGH",
+    "clinicNo": "Room 402, Kidney Care Clinic",
+    "clinicContact": "+62213900816"
+  },
+  {
+    "id": 17,
+    "name": "Dr. Novi Adi Putri",
+    "speciality": "Hematology",
+    "qualification": "Sp.PD-KHOM",
+    "clinicNo": "Room 103, Blood Disorder Clinic",
+    "clinicContact": "+62213900817"
+  },
+  {
+    "id": 18,
+    "name": "Dr. Hendra Wijaya",
+    "speciality": "General Surgery",
+    "qualification": "Sp.B",
+    "clinicNo": "Room 301, Jakarta Surgical Center",
+    "clinicContact": "+62213900818"
+  },
+  {
+    "id": 19,
+    "name": "Dr. Sari Lestari",
+    "speciality": "Family Medicine",
+    "qualification": "M.Kes",
+    "clinicNo": "Room 101, Primary Care Clinic",
+    "clinicContact": "+62213900819"
+  },
+  {
+    "id": 20,
+    "name": "Dr. Ahmad Faisal",
+    "speciality": "Sports Medicine",
+    "qualification": "Sp.KO",
+    "clinicNo": "Room 203, Jakarta Sports Clinic",
+    "clinicContact": "+62213900820"
+  }
+]
